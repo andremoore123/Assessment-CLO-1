@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1636008766 source:e:\file kuliah\semester 3\struktur data\tugas\codingan\asesmen clo-1\adt.cpp
+	"ADT.h"
+	<iostream>
+	<string>
+
+1636008424 e:\file kuliah\semester 3\struktur data\tugas\codingan\asesmen clo-1\adt.h
+	<iostream>
+
+1636008765 source:e:\file kuliah\semester 3\struktur data\tugas\codingan\asesmen clo-1\main.cpp
+	"ADT.h"
+	<iostream>
+	<string>
+
